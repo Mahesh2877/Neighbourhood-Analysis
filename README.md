@@ -1,2 +1,4 @@
 # Neighbourhood-Analysis
-This repo will house the code and files related to the "Bengaluru Neighbourhood Analysis" personal project I have undertaken.
+Refer to the PDF file for more details on this project.
+
+This Repo houses the files - CSVs, PDF report and the Notebook code - related to the "Bangalore Neighbourhood Analysis" project.
